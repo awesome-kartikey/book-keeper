@@ -2,7 +2,7 @@
 
 A simple, clean web application to save and manage your website bookmarks locally in your browser.
 
-![Book Keeper Screenshot](placeholder.png) _(Note: Replace placeholder.png with an actual screenshot if available)_
+![Book Keeper Screenshot](https://iamkartikey.vercel.app/project-screenshots/book-keeper.png)
 
 ## Description
 
@@ -55,3 +55,4 @@ That's it! You can now start adding and managing your bookmarks.
     - Hover over the bookmark you wish to remove.
     - Click the 'x' icon (close icon) that appears in the top-right corner of the bookmark item.
     - The bookmark will be removed instantly.
+
